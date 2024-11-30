@@ -1,0 +1,11 @@
+.title {
+    background-color: rgb(247, 167, 167);
+    width: 11em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.recipe-link:hover {
+ color:red;  
+ font-size: 25px; 
+}

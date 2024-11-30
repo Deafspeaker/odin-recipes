@@ -1,0 +1,61 @@
+Body {
+    background-color: white;
+}
+
+.pic {
+    height: 200px;
+    width: auto;
+}
+
+
+.headers {
+    color: black;
+    font-weight: 900;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display:inline-block;
+    padding-left: 30px;
+    padding-right: 30px;
+
+    
+}
+
+.headers.dish {
+ display: block;
+ padding: .1em;
+ margin-right: 1em;
+}
+
+.items {
+    /* this is to style my ingredients items list 
+    display:inline-block;
+    border: 2px solid #000;
+    padding: 20px;
+    */
+    color: black;
+}
+
+.instructions {
+    /* this is to style the cooking steps list */
+   color: black; 
+}
+
+.title {
+    display: block;
+    
+    float: left;
+    position: fixed;
+    width: 50%;
+}
+
+.content {
+display: inline;
+
+}
+
+.things {
+ /*  thight is the content pane on the right side*/
+ width: 50%;
+    float: right;
+    
+    
+}
